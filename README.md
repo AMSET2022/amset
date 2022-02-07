@@ -7,9 +7,9 @@ This repository contains the code to produce the all the simulation results and 
 The folder ```R``` contains all R files. 
 
 - ```epsest.func.R``` contains auxiliary function to estimate the proportion of non-null locations. 
-- ```MEBA.R``` implements fixed horizon comparison between our multistage empirical Bayes testing procedure and Optimizely's method using always valid p-values. 
-- ```MEBA_stagewise.R``` implements stagewise comparison between our multistage empirical Bayes testing procedure and Optimizely's method using always valid p-values. 
-- ```AMEBA.R``` implements adaptive multistage empirical Bayes testing procedure. 
+- ```MSET.R``` implements fixed horizon comparison between our multistage empirical Bayes testing procedure and Optimizely's method using always valid p-values. 
+- ```MSET_stagewise.R``` implements stagewise comparison between our multistage empirical Bayes testing procedure and Optimizely's method using always valid p-values. 
+- ```AMSET.R``` implements adaptive multistage empirical Bayes testing procedure. 
 
 ## Data files
 
